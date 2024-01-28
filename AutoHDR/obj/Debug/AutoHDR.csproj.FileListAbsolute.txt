@@ -1,0 +1,16 @@
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\icon.ico
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\AutoHDR.exe.config
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\AutoHDR.exe.manifest
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\AutoHDR.application
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\AutoHDR.exe
+G:\MyProjects\Myapp\AutoHDR\bin\Debug\AutoHDR.pdb
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.csproj.AssemblyReference.cache
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.AutoHDR.resources
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.Icon.resources
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.Properties.Resources.resources
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.csproj.GenerateResource.cache
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.csproj.CoreCompileInputs.cache
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.exe.manifest
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.application
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.exe
+G:\MyProjects\Myapp\AutoHDR\obj\Debug\AutoHDR.pdb
